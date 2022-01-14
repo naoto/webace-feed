@@ -5,43 +5,43 @@ selectors: &selectors
   item_time_selector: span.updated-date
   item_title_selector: p.text-bold
 pages:
-  - id: "1000125"
-    title: 針子の乙女
-    url: https://web-ace.jp/youngaceup/contents/1000125/
+  - id: "1000010"
+    title: 衛宮さんちの今日のごはん
+    url: https://web-ace.jp/youngaceup/contents/1000010/
+    <<: *selectors
+  - id: "1000015"
+    title: 賢者の孫
+    url: https://web-ace.jp/youngaceup/contents/1000015/
     <<: *selectors
   - id: "1000012"
     title: 公爵令嬢の嗜み
     url: https://web-ace.jp/youngaceup/contents/1000012/
     <<: *selectors
-  - id: "1000134"
-    title: 年上エリート女騎士が僕の前でだけ可愛い
-    url: https://web-ace.jp/youngaceup/contents/1000134/
-    <<: *selectors
   - id: "10000046"
     title: 異世界建国記
     url: https://web-ace.jp/youngaceup/contents/1000046/
-    <<: *selectors
-  - id: "1000010"
-    title: 衛宮さんちの今日のごはん
-    url: https://web-ace.jp/youngaceup/contents/1000010/
-    <<: *selectors
-  - id: "1000012"
-    title: 賢者の孫
-    url: https://web-ace.jp/youngaceup/contents/1000015/
-    <<: *selectors
-  - id: "1000139"
-    title: 一億年ボタンを連打した俺は、気付いたら最強になっていた
-    url: https://web-ace.jp/youngaceup/contents/1000139/
     <<: *selectors
   - id: "1000122"
     title: 賢者の孫SP
     url: https://web-ace.jp/youngaceup/contents/1000122/
     <<: *selectors
-  - id: "1000193"
-    title: 今日のアシュラ飯
-    url: https://web-ace.jp/youngaceup/contents/1000193/
+  - id: "1000125"
+    title: 針子の乙女
+    url: https://web-ace.jp/youngaceup/contents/1000125/
+    <<: *selectors
+  - id: "1000134"
+    title: 年上エリート女騎士が僕の前でだけ可愛い
+    url: https://web-ace.jp/youngaceup/contents/1000134/
+    <<: *selectors
+  - id: "1000139"
+    title: 一億年ボタンを連打した俺は、気付いたら最強になっていた
+    url: https://web-ace.jp/youngaceup/contents/1000139/
     <<: *selectors
   - id: "1000182"
     title: 先輩、美味しいですか？
     url: https://web-ace.jp/youngaceup/contents/1000182/
+    <<: *selectors
+  - id: "1000193"
+    title: 今日のアシュラ飯
+    url: https://web-ace.jp/youngaceup/contents/1000193/
     <<: *selectors
