@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[衛宮さんちの今日のごはん]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000010/</link>
+    <atom:link href="https://naoto.github.io/webace-feed/feeds/1000010.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Fri, 14 Jan 2022 08:36:47 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第５３話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/5947/</link>
+      
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[遠き記憶と目玉焼き]]></description>
+      <content:encoded><![CDATA[遠き記憶と目玉焼き]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/5947/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第５２話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/5758/</link>
+      
+        <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[秋深まるスイートポテト]]></description>
+      <content:encoded><![CDATA[秋深まるスイートポテト]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/5758/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[特別編-１０]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/5757/</link>
+      
+        <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[釣りする三人]]></description>
+      <content:encoded><![CDATA[釣りする三人]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/5757/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第５１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/5646/</link>
+      
+        <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[トウモロコシのごはんと天ぷら]]></description>
+      <content:encoded><![CDATA[トウモロコシのごはんと天ぷら]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/5646/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第５０話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/5499/</link>
+      
+        <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[お好み冷やしぶっかけうどん]]></description>
+      <content:encoded><![CDATA[お好み冷やしぶっかけうどん]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/5499/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[先輩、美味しいですか？]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000182/</link>
+    <atom:link href="https://naoto.github.io/webace-feed/feeds/1000182.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Fri, 14 Jan 2022 08:36:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第４話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000182/episode/5937/</link>
+      
+        <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000182/episode/5937/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第３話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000182/episode/5838/</link>
+      
+        <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000182/episode/5838/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第２話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000182/episode/5697/</link>
+      
+        <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000182/episode/5697/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000182/episode/5696/</link>
+      
+        <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000182/episode/5696/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

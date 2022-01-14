@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[針子の乙女]]></title>
+    <link>https://web-ace.jp/youngaceup/contents/1000125/</link>
+    <atom:link href="https://naoto.github.io/webace-feed/feeds/1000125.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Fri, 14 Jan 2022 08:36:49 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第１３話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/5999/</link>
+      
+        <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[永久に友情が続くように②]]></description>
+      <content:encoded><![CDATA[永久に友情が続くように②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/5999/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１３話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/5950/</link>
+      
+        <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[永久に友情が続くように①]]></description>
+      <content:encoded><![CDATA[永久に友情が続くように①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/5950/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１２話-３]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/5777/</link>
+      
+        <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[私一人では難しいことです③]]></description>
+      <content:encoded><![CDATA[私一人では難しいことです③]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/5777/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１２話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/5776/</link>
+      
+        <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[私一人では難しいことです②]]></description>
+      <content:encoded><![CDATA[私一人では難しいことです②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/5776/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第１２話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/5690/</link>
+      
+        <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[私一人では難しいことです①]]></description>
+      <content:encoded><![CDATA[私一人では難しいことです①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/5690/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
