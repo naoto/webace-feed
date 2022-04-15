@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Weneedfeed</title>
+  </head>
+  <body>
+    <outline text="Weneedfeed" title="Weneedfeed">
+      
+        <outline type="rss" text="一億年ボタンを連打した俺は、気付いたら最強になっていた" title="一億年ボタンを連打した俺は、気付いたら最強になっていた" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000139.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000139/"/>
+      
+        <outline type="rss" text="今日のアシュラ飯" title="今日のアシュラ飯" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000193.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000193/"/>
+      
+        <outline type="rss" text="先輩、美味しいですか？" title="先輩、美味しいですか？" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000182.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000182/"/>
+      
+        <outline type="rss" text="公爵令嬢の嗜み" title="公爵令嬢の嗜み" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000012.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000012/"/>
+      
+        <outline type="rss" text="年上エリート女騎士が僕の前でだけ可愛い" title="年上エリート女騎士が僕の前でだけ可愛い" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000134.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000134/"/>
+      
+        <outline type="rss" text="異世界建国記" title="異世界建国記" xmlUrl="https://naoto.github.io/webace-feed/feeds/10000046.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000046/"/>
+      
+        <outline type="rss" text="衛宮さんちの今日のごはん" title="衛宮さんちの今日のごはん" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000010.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000010/"/>
+      
+        <outline type="rss" text="賢者の孫" title="賢者の孫" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000015.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000015/"/>
+      
+        <outline type="rss" text="賢者の孫SP" title="賢者の孫SP" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000122.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000122/"/>
+      
+        <outline type="rss" text="針子の乙女" title="針子の乙女" xmlUrl="https://naoto.github.io/webace-feed/feeds/1000125.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000125/"/>
+      
+    </outline>
+  </body>
+</opml>
