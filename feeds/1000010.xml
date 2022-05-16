@@ -7,7 +7,19 @@
     <link>https://web-ace.jp/youngaceup/contents/1000010/</link>
     <atom:link href="https://naoto.github.io/webace-feed/feeds/1000010.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 15 May 2022 15:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2022 15:27:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編-１１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/6361/</link>
+      
+        <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[とある神父の１日]]></description>
+      <content:encoded><![CDATA[とある神父の１日]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/6361/</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[第５５話]]></title>
@@ -54,18 +66,6 @@
       <description><![CDATA[秋深まるスイートポテト]]></description>
       <content:encoded><![CDATA[秋深まるスイートポテト]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/5758/</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[特別編-１０]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/5757/</link>
-      
-        <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[釣りする三人]]></description>
-      <content:encoded><![CDATA[釣りする三人]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/5757/</guid>
       
     </item>
     
